@@ -5,6 +5,7 @@ tujuannya adalah pengerjaannya bisa dikerjakan 1 kelas bareng2...
 kode nya terpusat disini,
 laporannya biar juga bisa dikerjakan bareng2...
 
+
 biar tidak bingung copy2 an file...
 tutorial penggunaannya ada di link ini
 http://xover2.jkt.3d.x.indowebster.com/download/28/2hl1q6ywr7ztwaa6psswu2hivxcts54v.pdf
@@ -14,3 +15,5 @@ http://tortoisesvn.net/downloads.html
 
 
 jangan lupa setiap commit kasi log message ya
+
+mppl f 
