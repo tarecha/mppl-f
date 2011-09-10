@@ -1,5 +1,9 @@
 sebelum memulai update dulu....
 kalo udah ngedit2 apa g2 trus commit yah... :)
+kalo ingin update pada versi sebelumnya (revision)
+klik kanan => tortoiseSVN => Update to revision...
+jadi kita gak perlu bingung2 file yang lama hilang :)
+ini yang dinamakan versioning ^_^
 
 SekJen DAUS
 Idzhar
