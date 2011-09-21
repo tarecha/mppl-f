@@ -1,8 +1,0 @@
-Sistem Informasi Manajemen (SIM) E-Procurerment yang dikembangkan akan menunjang dalam peningkatan efektifitas dan efesiensi baik terutama dari segi informasi pelelangan proyek. 
--meningkatkan efektifitas dan efisiensi pengadaan barang/jasa
--meningkatkan transparansi dan akuntabilitas dalam pengadaan barang/jasa 
--memudahkan sourcing dalam memperoleh data dan informasi tentang barang/jasa dan penyedia barang/jasa
--menjamin proses pengadaan barang/jasa berjalan lebih cepat dan akurat
--menjamin persamaan kesempatan, akses dan hak yang sama bagi para pihak pelaku pengadaan barang/jasa
--menciptakan situasi yang kondusif agar terjadi persaingan yang sehat antar penyedia barang/jasa
--menciptakan situasi yang kondusif dan menjamin terselenggaranya komunikasi online untuk mengurangi intensitas pertemuan langsung antara penyedia barang/jasa dengan panitia pengadaan 

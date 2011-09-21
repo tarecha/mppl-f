@@ -1,5 +1,0 @@
-Sasaran dari pengembangan sistem informasi manajemen E-Procurement adalah 
-pengembangan manajemen pengolahan informasi lelang proyek yang ada di Universitas 
-Islam Negeri Maulana Malik Ibrahim Malang sebagai bahan analisa dalam mendukung 
-pengambilan keputusan dalam melakukan kegiatan lelang proyek, 
-termasuk pemilihan pemenang lelang proyek.
