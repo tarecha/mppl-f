@@ -1,1 +1,3 @@
-ssss
+<<<<<<< .mine
+s=======lklkl
+ssss>>>>>>> .r68
