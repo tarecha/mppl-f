@@ -1,0 +1,328 @@
+* {
+	font-family: "Trebuchet MS", sans-serif;
+	font-size: 11px;
+}
+
+h1 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 16px;
+	font-weight: bold;
+}
+
+/* Layout Style - START */
+body {
+	/*min-width: 200px;*/
+}
+
+#container {
+	/*height: 100%;*/
+  padding: 5px;
+}
+
+#container .column {
+	/*position: relative;
+	float: left;
+	empty-cells: show;*/
+  padding: 5px;
+}
+
+#navigation {
+	display: none;
+}
+
+#content {
+	padding-top: 5px;
+	width: 100%;
+  line-height: 150%;
+}
+
+#footer {
+	background-color: #ccc;
+	clear: both;
+	color: black;
+	height: 16px;
+	padding: 2px;
+	text-align: center;
+}
+
+/* Layout Style - END */ /* Content Style - START */
+#content h1 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+/* Form Style - START */ /* user */
+#user h5 {
+	background-color: white;
+	background-image: url("/images/h_background.gif");
+	background-repeat: repeat-x;
+	background-color: white;
+	color: white;
+	height: 22px;
+	margin: 0px;
+	padding-left: 10px;
+	padding-top: 3px;
+}
+
+#user {
+	background-color: white;
+	padding: 4px;
+	margin: 0;
+}
+
+#user label {
+	font-weight: bold;
+}
+
+#user input[type="text"],#user input[type="password"] {
+	width: 95%;
+}
+
+#user dt {
+	font-weight: bold;
+	border-bottom: 1px solid #eee;
+}
+
+#user dd {
+	text-align: right;
+	margin: 0;
+}
+
+/* Form Style - END */
+#error {
+	border: 1px solid #ff0;
+	padding: 4px;
+	width: 200px;
+}
+
+a img,:link img,:visited img {
+	border: none;
+}
+
+a {
+	text-decoration: none;
+}
+
+body,td {
+	margin: 0;
+	padding: 0;
+	background-color: #fff;
+}
+
+body {
+	padding: 10px;
+	background-image: url(images/backg.gif);
+	background-repeat: repeat-x;
+}
+
+table,tr,td {
+	border: none;
+	border-collapse: collapse;
+	page-break-inside: avoid;
+}
+
+table.data {
+	border: 1px solid #ddd;
+	empty-cells: show;
+	margin: 0;
+	padding: 0;
+}
+
+table.data thead th,table.data tbody td,table.data tfoot td {
+	border: 1px solid #ddd;
+	margin: 0;
+	padding: 1px 4px;
+	vertical-align: top;
+}
+
+table.data thead th {
+	background-color: #eee;
+	vertical-align: middle;
+}
+
+table.data tbody td.nowrap {
+	white-space: nowrap;
+}
+
+table.data tbody td.currency {
+	text-align: right;
+}
+
+table.data tbody td.has_inner {
+	padding-bottom: 2px;
+	padding-top: 2px;
+	padding-left: 4px;
+	padding-right: 4px;
+}
+
+table.data tbody td input.currency {
+	text-align: right;
+}
+
+table.data tbody td ul {
+	margin: 0;
+	padding: 0;
+	padding-left: 12px;
+	list-style: square;
+}
+
+table.inner {
+	height: 100%;
+	width: 100%;
+}
+
+table.inner tbody th {
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	text-align: right;
+	vertical-align: top;
+}
+
+table.inner tbody td {
+	border: 0;
+	border-top: 1px solid #eee;
+	border-bottom: 1px solid #eee;
+	padding: 1px 4px;
+}
+
+table.form {
+	empty-cells: show;
+	margin: 0;
+	padding: 0;
+	vertical-align: top;
+}
+
+table.form tbody th,table.form tbody td {
+	border-bottom: 1px solid #ddd;
+	border-top: 1px solid #ddd;
+	height: 27px;
+	margin: 0;
+	padding: 2px;
+}
+
+table.form tbody th {
+	padding-left: 8px;
+	padding-right: 10px;
+	text-align: right;
+}
+
+table.form tbody td {
+	padding-right: 8px;
+}
+
+table.form tbody td.currency {
+	text-align: right;
+}
+
+table.form tbody th input[type=checkbox],table.form tbody td input[type=checkbox],table.form tbody th input[type=radio],table.form tbody td input[type=radio] {
+	margin-left: 0;
+}
+
+table.form tbody td input.currency {
+	text-align: right;
+}
+
+table.form tbody td ul {
+	margin: 0;
+	padding: 0;
+	padding-left: 12px;
+	list-style: square;
+}
+
+table.selector {
+	background-color: #eee;
+	border: 1px solid #ddd;
+	empty-cells: show;
+	margin: 0;
+	margin-bottom: 8px;
+}
+
+table.selector tbody th,table.selector tbody td {
+	background-color: #eee;
+	padding: 4px;
+}
+
+table.selector tbody th {
+	padding-right: 10px;
+	text-align: right;
+}
+
+table.selector tbody th input[type=checkbox],table.selector tbody td input[type=checkbox],table.selector tbody th input[type=radio],table.selector tbody td input[type=radio] {
+	margin-left: 0;
+}
+
+#header {
+	padding: 0;
+	margin: 0;
+}
+
+#header_logo {
+	background-image: url("/images/header.gif");
+	background-repeat: no-repeat;
+	height: 81px;
+}
+
+#header ul {
+	background-color: #ccc;
+	height: 17px;
+	line-height: normal;
+	list-style-type: none;
+	margin: auto;
+	padding-top: 2px;
+	padding-left: 0; padding-right: 0;
+	text-align: left;
+  display: none;
+}
+
+#header ul li {
+	display: inline;
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+}
+
+#header ul li a {
+	color: black;
+	padding-bottom: 2px;
+	padding-left: 10px;
+	padding-right: 10px;
+	/* short-hand padding attribute would overwrite top/bottom padding set in a previous rule */
+	padding-top: 2px;
+	text-decoration: none;
+	white-space: nowrap;
+}
+
+#header ul li div.menu_separator {
+	display: inline;
+	height: 100%;
+	width: 1px;
+}
+
+#content #error_box {
+	border: 1px solid red;
+	background-color: #fee;
+	color: red;
+	padding: 6px;
+}
+
+#content #error_box h5 {
+	margin: 0;
+}
+
+#content #error_box ul {
+	font-weight: normal;
+	margin: 0;
+	padding-left: 16px;
+}
+
+em {
+	color: red;
+}
+
+#sfWebDebug, .doNotPrint {
+  display: none;
+}
