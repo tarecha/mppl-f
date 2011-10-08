@@ -1,0 +1,19 @@
+h2.info-judul {
+	border-bottom: 1px solid #7F98A7;
+	color: #003150;
+	font-size: 12px;
+	/*font-weight: normal;*/
+	line-height: 1.2em;
+	margin: 10px 0px 0.2em;
+	padding: 0px 0px 0em;
+	text-decoration: none;
+}
+
+.info-jenis {
+	float: right;
+	position: relative;
+}
+
+.info-isi {
+	margin-bottom: 10px;
+}
